@@ -1,0 +1,19 @@
+body {
+    background-color : yellow;
+}
+
+h1 {
+    color : blueviolet;
+    font-size : 100px;
+    font-weight: 300;
+    text-align: center;
+}
+
+h1:hover{
+    opacity: 0.5;
+    cursor : pointer;
+}
+
+h2 {
+    color: blue;
+}
